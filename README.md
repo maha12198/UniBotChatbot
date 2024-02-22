@@ -1,8 +1,7 @@
-# Unibot
+# UniBot: An Artificial Intelligence Chatbot that is replying to the frequently asked questions in the university.
 
-•	An Artificial Intelligence Chatbot that is replying to the frequently asked questions in the university.
-•	Developed using Python (Tools: Google Colab). Libraries: JSON, NLTK, Tensorflow, Flask, Twilio.
-•	Implemented two GUIs: a Web App (using HTML, CSS, JS, and Python) and WhatsApp Messenger.
+
+Developed using Python (Tools: Google Colab). Libraries: JSON, NLTK, Tensorflow, Flask, Twilio. Implemented two GUIs: a Web App (using HTML, CSS, JS, and Python) and WhatsApp Messenger.
 
 Brief Explanation:
 Before the beginning of every academic year, prospective applicants of universities face difficulties in getting the information   needed about,  universities.
